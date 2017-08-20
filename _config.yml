@@ -1,0 +1,82 @@
+layout_spectrum: 0.2048781017067446
+typography_spectrum: 0.17150073019760007
+color:
+  brandStrength: 0.4488991287145948
+  lightness: 0.7771506986537451
+  saturation: 0.9139778399318088
+  rhythmicContrast: 0.9466406078277027
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Modern Kimono
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/126d980b-f7f9-4415-b34b-f5b93b4bc0d0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/126d980b-f7f9-4415-b34b-f5b93b4bc0d0.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e95f540-7cbf-4df4-9ec8-b6d79387895f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e95f540-7cbf-4df4-9ec8-b6d79387895f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Modern Kimono
+description: ''
+purpose:
+  - type: external
+    url: 'https://thegrid.ai/blogmkr'
+    label: The Blog
+  - type: external
+    url: 'https://thegrid.ai/storemkr'
+    label: The Store
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3be3aa3-886f-4250-bce8-503e2ad82f20.jpg
